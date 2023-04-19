@@ -12,5 +12,5 @@ opt-level = "s"
 
 [workspace]
 members = [
-    "blink",
+    "simple",
 ]
